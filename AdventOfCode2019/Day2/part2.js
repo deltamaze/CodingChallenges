@@ -9,7 +9,6 @@ class Main {
     const array = fs.readFileSync('./Day2/input.txt').toString().split(',');
     // parse input into array of ints
     for (let i = 0; i < array.length; i += 1) {
-      // perform weight calculation, add to moduleWeights
       const parsedNum = parseInt(array[i], 10);
       initialIntCode.push(parsedNum);
     }
