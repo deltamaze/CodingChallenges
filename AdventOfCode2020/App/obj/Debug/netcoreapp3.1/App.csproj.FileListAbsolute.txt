@@ -1,0 +1,14 @@
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\App.exe
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\App.deps.json
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\App.dll
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\App.pdb
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.dll
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.pdb
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day1Part1Input.txt
