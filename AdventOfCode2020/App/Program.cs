@@ -6,7 +6,8 @@ namespace App
     {
         static void Main()
         {
-            Day1.Run();
+            //Day1.Run();
+            Day2.Run();
         }
     }
 }

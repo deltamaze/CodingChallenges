@@ -11,7 +11,7 @@ namespace App
         public static void Run()
         {
 
-            string input = File.ReadAllText("Day1Part1Input.txt");
+            string input = File.ReadAllText("Day1Input.txt");
             var inputArray = input.Split(
                 new[] { Environment.NewLine },
                 StringSplitOptions.None

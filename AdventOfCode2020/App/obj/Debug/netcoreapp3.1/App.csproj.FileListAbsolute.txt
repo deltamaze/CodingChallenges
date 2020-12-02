@@ -11,4 +11,5 @@ C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.cspr
 C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.dll
 C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.pdb
 C:\GitHub\CodingChallenges\AdventOfCode2020\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
-C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day1Part1Input.txt
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day1Input.txt
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day2Input.txt
