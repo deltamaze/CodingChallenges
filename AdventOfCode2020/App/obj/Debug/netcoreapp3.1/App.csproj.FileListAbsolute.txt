@@ -15,3 +15,6 @@ C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day1Inpu
 C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day2Input.txt
 C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day3Input.txt
 C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day4Input.txt
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day5Input.txt
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day6Input.txt
+C:\GitHub\CodingChallenges\AdventOfCode2020\App\bin\Debug\netcoreapp3.1\Day7Input.txt
